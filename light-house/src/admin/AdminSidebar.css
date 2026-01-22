@@ -1,0 +1,13 @@
+/* Sidebar scroll */
+.sidebar-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+
+.sidebar-scroll::-webkit-scrollbar-track {
+  background: #0a1f44; /* sidebar bg */
+}
+
+.sidebar-scroll::-webkit-scrollbar-thumb {
+  background-color: #F5E7C6; /* scroll color */
+  border-radius: 3px;
+}
